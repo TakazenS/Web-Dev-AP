@@ -1,0 +1,1 @@
+import * as sqlRequest1 from './backend/sql-request1-page2.js';
