@@ -1,1 +1,0 @@
-import * as sqlRequest1 from './backend/sql-request1-index.js';
